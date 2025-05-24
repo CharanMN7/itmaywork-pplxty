@@ -1,9 +1,9 @@
 {
-  "name": "devsforfun-frontend-template",
-  "description": "devsForFun opensource frontend template",
-  "author": "devsForFun",
+  "name": "itmaywork",
+  "description": "ItMayWork",
+  "author": "Charan",
   "email": "charan@devsforfun.com",
-  "website": "https://devsforfun.com",
+  "website": "https://pplxty.itmaywork.com",
   "version": "0.1.0",
   "private": true,
   "scripts": {
