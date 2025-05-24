@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'devsForFun opensource frontend template',
-  description: 'devsForFun opensource frontend template',
+  title: 'ItMayWork.com',
+  description: 'ItMayWork.com',
   icons: {
     icon: '/favicon.ico',
   },
